@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @amitmishra-110
-- 👀 I’m interested in App Development
-- 🌱 I’m currently learning Dart and Flutter
+- 👀 I’m interested in WebApps & App Development
+- 🌱 I’m currently  Spring Mvc ,Spring Boot,Hiberante .
+-    Next Goal is learning Dart and Flutter
 - 💞️ I’m looking to collaborate on Flutter Development, Java and SQL problems .
 
 
