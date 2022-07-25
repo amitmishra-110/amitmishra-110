@@ -2,7 +2,7 @@
 - 👀 I’m interested in WebApps & App Development
 - 🌱 I’m currently  learning Spring Mvc ,Spring Boot,Hibernate .
 -    Next Goal is learning Dart and Flutter
-- 💞️ I’m looking to collaborate on Flutter Development, Java and SQL problems .
+- 💞️ I’m looking to collaborate on  Java EE & Spring , SQL problems .
 
 
 <!---
