@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amitmishra-110
+- 👋 Hi, I’m Amit Mishra
 - 👀 I’m interested in WebApps & App Development
 - 🌱 I’m currently  learning Spring Mvc ,Spring Boot,Hibernate .
 -    Next Goal is learning Dart and Flutter
