@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Amit Mishra working as Senior Application Engineer
 - 👀 I’m interested in WebApps & App Development
 - 🌱 I’m currently  learning Spring Mvc ,Spring Boot,Hibernate .
--    Next Goal is learning Dart and Flutter
+-    Next Goal is learning  Angular and AWS
 - 💞️ I’m looking to collaborate on  Java EE & Spring , SQL problems .
 
 
